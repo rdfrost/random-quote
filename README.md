@@ -7,6 +7,12 @@ Random quote generator.
 [![GitHub repo size][github-repo-size-shield]][github-repo]
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+## Preqquisites
+
+```python
+pip install PyQt5
+```
+
 ## License
 <!-- https://github.com/santisoler/cc-licenses -->
 
